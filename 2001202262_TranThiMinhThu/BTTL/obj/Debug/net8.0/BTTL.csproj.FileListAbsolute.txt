@@ -1,0 +1,15 @@
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\bin\Debug\net8.0\BTTL.exe
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\bin\Debug\net8.0\BTTL.deps.json
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\bin\Debug\net8.0\BTTL.runtimeconfig.json
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\bin\Debug\net8.0\BTTL.dll
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\bin\Debug\net8.0\BTTL.pdb
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.AssemblyInfoInputs.cache
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.AssemblyInfo.cs
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.csproj.CoreCompileInputs.cache
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.sourcelink.json
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.dll
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\refint\BTTL.dll
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.pdb
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\BTTL.genruntimeconfig.cache
+D:\LuuDuLieuHocTap\PTTKTT\2001202262_TranThiMinhThu_BTTLB2\BTTL\BTTL\obj\Debug\net8.0\ref\BTTL.dll
